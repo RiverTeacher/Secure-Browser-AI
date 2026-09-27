@@ -1,0 +1,6 @@
+{
+  "name": "Privacy Browser",
+  "description": "トラッカー遮断・データ完全消去・HTTPS保護を備えたプライバシー重視の高速Webブラウザ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
